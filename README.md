@@ -1,0 +1,1 @@
+PharmaIQ is a machine learning project that predicts pharmaceutical sales performance using Random Forest, XGBoost, and other models. It includes visualizations and performance metrics to help analyze actual vs. predicted values.
